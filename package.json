@@ -1,5 +1,5 @@
 {
-  "name": "random",
+  "name": "@l_j_w/random",
   "version": "1.0.0",
   "description": "随机数生成函数",
   "main": "index.js",
